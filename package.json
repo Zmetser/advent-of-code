@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-solutions",
+  "version": "1.0.0",
+  "description": "\"Solving Advent of Code problems, for fun http://adventofcode.com/about\"",
+  "main": "echo \"Run them individually\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmetser/advent-of-code.git"
+  },
+  "author": "Oliver Kovacs <zee@thezee.hu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zmetser/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/Zmetser/advent-of-code#readme",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
