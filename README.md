@@ -15,3 +15,7 @@ http://adventofcode.com/
 ## Day6
 
 `node --harmony_destructuring day6.js`
+
+## Day6
+
+`node --harmony_destructuring day7.js`
