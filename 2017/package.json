@@ -1,0 +1,12 @@
+{
+  "name": "AOC_17",
+  "version": "1.0.0",
+  "description": "Advent of Code 2017",
+  "main": "index.js",
+  "author": "Oliver Kovacs <oliver@kinja.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
