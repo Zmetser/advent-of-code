@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "description": "advent of code 2020 solutions",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zmetser/advent-of-code.git"
+  },
+  "author": "Oliver Kovacs <zmetserdev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zmetser/advent-of-code/issues"
+  },
+  "homepage": "https://github.com/Zmetser/advent-of-code#readme"
+}
