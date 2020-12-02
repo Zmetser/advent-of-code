@@ -6,10 +6,18 @@
     "type": "git",
     "url": "git+https://github.com/Zmetser/advent-of-code.git"
   },
+  "scripts": {
+    "preday": "tsc --alwaysStrict --target es5 --lib ESNext.Array src/day_$npm_config_day.ts",
+    "day": "node src/day_$npm_config_day.js"
+  },
   "author": "Oliver Kovacs <zmetserdev@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Zmetser/advent-of-code/issues"
   },
-  "homepage": "https://github.com/Zmetser/advent-of-code#readme"
+  "homepage": "https://github.com/Zmetser/advent-of-code#readme",
+  "devDependencies": {
+    "@types/node": "^14.14.10",
+    "typescript": "^4.1.2"
+  }
 }
