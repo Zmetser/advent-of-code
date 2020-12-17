@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/Zmetser/advent-of-code#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.165",
     "@types/node": "^14.14.10",
+    "lodash": "^4.17.20",
     "typescript": "^4.1.2"
   }
 }
